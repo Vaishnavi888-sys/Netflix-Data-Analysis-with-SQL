@@ -2,7 +2,7 @@
 [NETFLIX](https://github.com/Vaishnavi888-sys/Netflix-Data-Analysis-with-SQL/blob/main/logo.png)
 Welcome to my Netflix data analysis project! This repository contains powerful SQL queries that explore, clean, and extract insights from the Netflix dataset. The dataset includes movies and TV shows available on Netflix, along with metadata like genre, cast, country, release year, and more.
 ## 📁 Dataset Info
-
+DATASET LINK : [KAGGLE](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 - Source: `netflix_titles.csv`
 - Size: ~8800+ records
 - Fields: `show_id`, `type`, `title`, `director`, `casts`, `country`, `date_added`, `release_year`, `rating`, `duration`, `listed_in`, `description`
